@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Jhon\Documents\6api\pub</_PublishTargetUrl>
+    <History>True|2021-09-28T20:38:33.4876716Z;True|2021-09-24T09:58:53.8775478-03:00;True|2021-09-24T09:52:28.8431307-03:00;True|2021-09-24T09:52:12.3974527-03:00;True|2021-09-24T09:51:39.0001470-03:00;False|2021-09-24T09:51:13.8291474-03:00;True|2021-09-24T09:48:47.0847220-03:00;True|2021-09-24T09:47:33.8484084-03:00;True|2021-09-24T09:42:07.1432299-03:00;True|2021-08-31T08:43:07.7274883-03:00;</History>
+  </PropertyGroup>
+</Project>
